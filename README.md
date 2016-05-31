@@ -1,1 +1,1 @@
-# programmingsummercamp.github.io
+# cpp-summercamp.github.io
